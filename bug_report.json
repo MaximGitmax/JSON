@@ -1,1 +1,11 @@
-
+{
+ "id":"1"
+  "summary":"Digit '9' doesn't appear in the i/o field",
+  "description":"Req. 1",
+  "AR":"Digit '9' doesn't appear in the i/o field", 
+  "ER":"Digit '9' appear in the i/o field",
+  "STR":"Press button '9'",
+  "severity":"Critical",
+  "priority":"ASAP",
+  "status":"New"
+}
