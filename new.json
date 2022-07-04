@@ -1,4 +1,6 @@
-{"name":"Maxim", 
-"age":"23", 
-"pets":"1",
-"Future salary":"4000$"} 
+{
+	"name": "Maxim",
+	"age": "23",
+	"pets": "1",
+	"Future salary": "4000$"
+}
